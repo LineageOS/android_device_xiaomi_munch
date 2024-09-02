@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "67d9445a_013bfb53",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 223,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2024-09-02T20:04:53Z",
+      "side": 0,
+      "message": "You might want to keep this one at least, or the \"Connect to Wi-Fi via QR Code won\u0027t work\"",
+      "range": {
+        "startLine": 223,
+        "startChar": 0,
+        "endLine": 223,
+        "endChar": 2
+      },
+      "revId": "9fbc588d480ed2b4bbd7ed2755a61b60dac8353e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
