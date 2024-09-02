@@ -19,6 +19,9 @@ function blob_fixup() {
 LEGACY_MIFARE_READER=1
 EOF
             ;;
+        vendor/lib/hw/audio.primary.munch.so)
+            grep -q "liba2dpoffload_munch.so" "${2}" || ${PATCHELF} --replace-needed "liba2dpoffload.so" "liba2dpoffload_munch.so" "${2}"
+            ;;
         vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so)
             "${SIGSCAN}" -p "9A 0A 00 94" -P "1F 20 03 D5" -f "${2}"
             ;;
