@@ -46,6 +46,30 @@
       },
       "revId": "9fbc588d480ed2b4bbd7ed2755a61b60dac8353e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "50c1fe46_a2eb86e0",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 223,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-09-02T21:36:19Z",
+      "side": 0,
+      "message": "Isn\u0027t the entire camera stack 64bit? Why would just this lib be needed?",
+      "parentUuid": "86bb3f22_526a1a31",
+      "range": {
+        "startLine": 223,
+        "startChar": 0,
+        "endLine": 223,
+        "endChar": 2
+      },
+      "revId": "9fbc588d480ed2b4bbd7ed2755a61b60dac8353e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
