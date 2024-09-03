@@ -70,6 +70,30 @@
       },
       "revId": "9fbc588d480ed2b4bbd7ed2755a61b60dac8353e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe629813_7be27324",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 223,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-09-03T02:23:08Z",
+      "side": 0,
+      "message": "Kinda funny but back on 19.1 lmi camera wouldn\u0027t work without them, no idea why, but nice to see it\u0027s not needed on munch, qcom might have fixed it on newer BSP",
+      "parentUuid": "50c1fe46_a2eb86e0",
+      "range": {
+        "startLine": 223,
+        "startChar": 0,
+        "endLine": 223,
+        "endChar": 2
+      },
+      "revId": "9fbc588d480ed2b4bbd7ed2755a61b60dac8353e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
