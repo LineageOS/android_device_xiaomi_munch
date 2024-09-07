@@ -22,6 +22,30 @@
       },
       "revId": "28724fe0b5c75bfea5a0e73ac4842890637aa5cd",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d4652db5_93b06430",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2024-09-07T22:56:54Z",
+      "side": 1,
+      "message": "I\u0027m setting the prop just to be sure we\u0027ll load that HAL, after all this is a device specific HAL, qcom wouldn\u0027t be accurate",
+      "parentUuid": "68414081_7c87840d",
+      "range": {
+        "startLine": 54,
+        "startChar": 64,
+        "endLine": 54,
+        "endChar": 69
+      },
+      "revId": "28724fe0b5c75bfea5a0e73ac4842890637aa5cd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
