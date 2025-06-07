@@ -1,4 +1,5 @@
 # Unpinned blobs from munch-user 13 RKQ1.211001.001 V816.0.5.0.ULMMIXM release-keys
+# munch_cn Package version: munch_cn-user 14 UKQ1.231207.002 V816.0.5.0.ULMCNXM release-keys
 
 # ACDB
 vendor/etc/acdbdata/Tutu/Tutu_Bluetooth_cal.acdb
@@ -216,6 +217,9 @@ vendor/lib64/libwa_widelens_undistort.so
 vendor/lib64/libxmi_hdr_checker.so
 vendor/lib64/libxmi_high_dynamic_range.so
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
+
+# Camera - from munch_cn
+vendor/lib64/camera/com.qti.sensormodule.munch_ofilm_imx582_wide.bin|2e2c737b926f67859917f5067fdc8027eac83c08
 
 # Camera (CamX)
 vendor/lib64/libcamxexternalformatutils.so
