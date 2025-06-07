@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ec00e369_f72074f4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-06-07T17:21:14Z",
+      "side": 1,
+      "message": "We don\u0027t do \"reported by\"",
+      "revId": "61362009a4e4d4d2f354c8d2bd0f1f3d520762af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "56827885_bdb1d221",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2025-06-07T17:21:14Z",
+      "side": 1,
+      "message": "Fixes, not Closes",
+      "revId": "61362009a4e4d4d2f354c8d2bd0f1f3d520762af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
